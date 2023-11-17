@@ -1,0 +1,51 @@
+[
+    {
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "dateOfBirth": "2001-05-20",
+        "occupation": "Scientist",
+        "affiliation": "Protagonists"
+    },
+    {
+        "firstName": "Bob",
+        "lastName": "Brown",
+        "dateOfBirth": "1999-11-08",
+        "occupation": "Engineer",
+        "affiliation": "Antagonists"
+    },
+    {
+        "firstName": "Carol",
+        "lastName": "Davis",
+        "dateOfBirth": "2000-02-15",
+        "occupation": "Pilot",
+        "affiliation": "Protagonists"
+    },
+    {
+        "firstName": "David",
+        "lastName": "Jones",
+        "dateOfBirth": "1998-07-23",
+        "occupation": "Doctor",
+        "affiliation": "Civilians"
+    },
+    {
+        "firstName": "Emma",
+        "lastName": "Wilson",
+        "dateOfBirth": "2002-03-30",
+        "occupation": "Researcher",
+        "affiliation": "Protagonists"
+    },
+    {
+        "firstName": "Frank",
+        "lastName": "Taylor",
+        "dateOfBirth": "2003-08-11",
+        "occupation": "Journalist",
+        "affiliation": "Neutral"
+    },
+    {
+        "firstName": "Grace",
+        "lastName": "Moore",
+        "dateOfBirth": "1997-12-05",
+        "occupation": "Teacher",
+        "affiliation": "Civilians"
+    }
+]

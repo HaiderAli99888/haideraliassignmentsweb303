@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Character Table</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        th {
+            cursor: pointer;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+
+<body>
+    <table id="characterTable">
+        <thead>
+            <tr>
+                <th><a href="#" class="sort-header" data-sort="firstName">First Name <span
+                            class="chevron hidden">&#x25B2;</span></a></th>
+                <th><a href="#" class="sort-header" data-sort="lastName">Last Name <span
+                            class="chevron hidden">&#x25BC;</span></a></th>
+                <th><a href="#" class="sort-header" data-sort="dateOfBirth">Date of Birth <span
+                            class="chevron hidden">&#x25B2;</span></a></th>
+                <th><a href="#" class="sort-header" data-sort="occupation">Occupation <span
+                            class="chevron hidden">&#x25B2;</span></a></th>
+                <th><a href="#" class="sort-header" data-sort="affiliation">Affiliation <span
+                            class="chevron hidden">&#x25B2;</span></a></th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    <script src="script.js"></script>
+</body>
+
+</html>
