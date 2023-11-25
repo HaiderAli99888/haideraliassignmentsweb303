@@ -1,0 +1,51 @@
+[
+    {
+        "firstName": "Harry",
+        "lastName": "Potter",
+        "house": "Gryffindor",
+        "role": "Student",
+        "patronus": "Stag"
+    },
+    {
+        "firstName": "Hermione",
+        "lastName": "Granger",
+        "house": "Gryffindor",
+        "role": "Student",
+        "patronus": "Otter"
+    },
+    {
+        "firstName": "Ron",
+        "lastName": "Weasley",
+        "house": "Gryffindor",
+        "role": "Student",
+        "patronus": "Jack Russell Terrier"
+    },
+    {
+        "firstName": "Albus",
+        "lastName": "Dumbledore",
+        "house": "Gryffindor",
+        "role": "Headmaster",
+        "patronus": "Phoenix"
+    },
+    {
+        "firstName": "Severus",
+        "lastName": "Snape",
+        "house": "Slytherin",
+        "role": "Teacher",
+        "patronus": "Doe"
+    },
+    {
+        "firstName": "Draco",
+        "lastName": "Malfoy",
+        "house": "Slytherin",
+        "role": "Student",
+        "patronus": "None"
+    },
+    {
+        "firstName": "Luna",
+        "lastName": "Lovegood",
+        "house": "Ravenclaw",
+        "role": "Student",
+        "patronus": "Hare"
+    }
+]
